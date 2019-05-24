@@ -46,7 +46,7 @@ under the License.
     </issueManagement>
     <scm>
         <connection>scm:git:https://gitbox.apache.org/repos/asf/netbeans-mavenutils-archetype-nbm-suite-root.git</connection>
-        <developerConnection>scm:git:gitbox.apache.org/repos/asf/netbeans-mavenutils-archetype-nbm-suite-root.git</developerConnection>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/netbeans-mavenutils-archetype-nbm-suite-root.git</developerConnection>
         <url>https://github.com/apache/netbeans-mavenutils-archetype-nbm-suite-root</url>
     </scm> 
     <build>
