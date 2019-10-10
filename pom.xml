@@ -28,7 +28,7 @@ under the License.
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.apache.netbeans.archetypes</groupId>
     <artifactId>nbm-suite-root</artifactId>
-    <version>1.12</version>
+    <version>1.13-SNAPSHOT</version>
     <packaging>maven-archetype</packaging>
     
     <name>Apache Netbeans Maven Utilties - NetBeans Module Suite Archetype</name>
@@ -48,7 +48,7 @@ under the License.
         <connection>scm:git:https://gitbox.apache.org/repos/asf/netbeans-mavenutils-archetype-nbm-suite-root.git</connection>
         <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/netbeans-mavenutils-archetype-nbm-suite-root.git</developerConnection>
         <url>https://github.com/apache/netbeans-mavenutils-archetype-nbm-suite-root</url>
-      <tag>nbm-suite-root-1.12</tag>
+      <tag>HEAD</tag>
   </scm> 
     <build>
         <pluginManagement>
