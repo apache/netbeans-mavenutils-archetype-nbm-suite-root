@@ -40,6 +40,12 @@ under the License.
             <distribution>repo</distribution>
         </license>
     </licenses>
+   <distributionManagement>
+        <site>
+            <id>netbeans.bits</id>
+            <url>https://bits.netbeans.org/mavenutilities/archetypes/nbm-suite-root</url>
+        </site>
+    </distributionManagement>
     <issueManagement>
         <system>jira</system>
         <url>https://issues.apache.org/jira/projects/NETBEANS</url>
